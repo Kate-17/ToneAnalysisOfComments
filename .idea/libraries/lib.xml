@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/MYSql" />
+      <root url="file://$PROJECT_DIR$/lib/Solr" />
+      <root url="file://$PROJECT_DIR$/lib/YouTube" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/Solr" />
+      <root url="file://$PROJECT_DIR$/lib/YouTube" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/MYSql" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/Solr" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/YouTube" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/Solr" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/YouTube" recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a202ad66-3e65-40fc-beb6-834e74e159e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ToneAnalysisOfComments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/MYSql/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/commons-io-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/commons-math3-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/gson-2.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/httpclient-4.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/httpcore-4.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/httpmime-4.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/java-json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/jcl-over-slf4j-1.7.24.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/noggit-0.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/slf4j-api-1.7.24.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/slf4j-nop-1.8.0-beta2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/slf4j-nop.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/slf4j.jdk14-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/solr-solrj-7.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/stax2-api-3.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/woodstox-core-asl-4.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Solr/zookeeper-3.4.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/commons-codec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/google-api-client-1.23.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/google-api-services-youtube-v3-rev186-1.23.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/google-http-client-1.23.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/google-http-client-jackson2-1.23.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/google-oauth-client-1.23.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/google-oauth-client-java6-1.14.0-beta-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/google-oauth-client-java6-1.23.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/google-oauth-client-jetty-1.23.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/guava-jdk5-17.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/httpclient-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/httpcore-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/jackson-core-2.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/java-json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/jetty-6.1.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/jsr305-1.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/YouTube/servlet-api-2.5-20081211.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/slf4j-nop-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_schema_collectionoftwitter.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/NaiveBayes/Classification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/YouTube/CommentsFromYouTube$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/YouTube/CommentsFromYouTube$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/YouTube/CommentsFromYouTube$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/YouTube/CommentsFromYouTube.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/YouTube/VideoInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/YouTube/СhannelInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/javaFX/Controller$type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/javaFX/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/javaFX/MainForm.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/javaFX/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/tests/ForTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/trainingSetFromTwitter/CollectionOfDataBaseFromTwitter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToneAnalysisOfComments/trainingSetFromTwitter/SmileAndDeleteForLoadOnPlatform.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/CollectionofTwitter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NaiveBayes/Classification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YouTube/CommentsFromYouTube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YouTube/VideoInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YouTube/СhannelInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaFX/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaFX/MainForm.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaFX/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainingSetFromTwitter/CollectionOfDataBaseFromTwitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trainingSetFromTwitter/SmileAndDeleteForLoadOnPlatform.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2006128066">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1615" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ToneAnalysisOfComments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToneAnalysisOfComments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ToneAnalysisOfComments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToneAnalysisOfComments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ToneAnalysisOfComments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToneAnalysisOfComments" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="YouTube" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a202ad66-3e65-40fc-beb6-834e74e159e2" name="Default Changelist" comment="" />
+      <created>1533831156250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533831156250</updated>
+      <workItem from="1533831170790" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="100000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ToneAnalysisOfComments</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
